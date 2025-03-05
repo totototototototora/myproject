@@ -1,4 +1,1 @@
-*.log
-__pycache__/
-*.pyc
-*.csv
+venv-ml/
